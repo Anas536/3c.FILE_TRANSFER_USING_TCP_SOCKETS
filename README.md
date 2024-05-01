@@ -10,6 +10,9 @@ To write a python program for creating File Transfer using TCP Sockets Links
 ## PROGRAM
 ### Client:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 
 s = socket.socket()
@@ -36,6 +39,9 @@ print('connection closed')
 ```
 ### Server:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 
 port = 60000
